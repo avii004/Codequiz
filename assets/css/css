@@ -1,0 +1,32 @@
+body {
+    background-color: #080202 
+    font-family: 'Courier New', monospace;
+    color: #F2F2F2;
+}
+
+h1,
+h2 {
+    color: floralwhite;
+}
+
+a {
+    color: floralwhite;
+}
+
+a:hover {
+    color: darkslategray;
+}
+.btn:focus, .btn.active, .btn.visited {
+    outline: none !important;
+    box-shadow: none !important;
+    background-color: dimgrey;
+}
+
+#finalScore {
+    font-weight: bold;
+}
+
+#answerCheck {
+    font-style: italic;
+    color: floralwhite;
+}
