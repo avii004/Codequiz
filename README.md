@@ -3,7 +3,7 @@ Here's an app I made that allows you to take a quiz on Javascript. You have a f
 
 ## Website Links
  https://avii004.github.io/Codequiz/
-
+ https://github.com/avii004/Codequiz
 ## Languages Used
 
 ## Sample Image
