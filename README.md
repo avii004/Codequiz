@@ -13,3 +13,4 @@ CSS
 Boostrap
 JavaScript
 ## Sample Image
+![Code quiz screenshot](https://user-images.githubusercontent.com/100546819/173927995-82f353a4-003e-4b96-bbff-90f7b85dd629.png)
