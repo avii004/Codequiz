@@ -32,7 +32,7 @@ let listOfHighScores = document.getElementById('list-of-high-scores');
 let goBackBtn = document.getElementById('go-back-btn');
 let clearHighScoreBtn = document.getElementById('clear-high-score-btn');
 
- // Set the questions of object
+// Set the questions of object
 const questions = [
     {
         question: "JavaScript is a ___ -side programming language.",
