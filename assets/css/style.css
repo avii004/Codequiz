@@ -1,25 +1,26 @@
 body {
-    background-color: #080202 
-    font-family: 'Courier New', monospace;
-    color: #F2F2F2;
+    background-color: #2B8A41; 
+    font-family: 'Poppins', sans-serif;
+    color: #FEFEFE;
 }
 
-h1,
+h1, 
 h2 {
-    color: floralwhite;
+    color: #FEFEFE;
 }
 
 a {
-    color: floralwhite;
+    color: #FEFEFE;
 }
 
 a:hover {
-    color: darkslategray;
+    color: #FEFEFE;
 }
-.btn:focus, .btn.active, .btn.visited {
+
+.btn:focus, .btn:active, .btn:visited {
     outline: none !important;
     box-shadow: none !important;
-    background-color: dimgrey;
+    background-color: #2B8A41;
 }
 
 #finalScore {
@@ -28,5 +29,5 @@ a:hover {
 
 #answerCheck {
     font-style: italic;
-    color: floralwhite;
+    color:  #FEFEFE;
 }
