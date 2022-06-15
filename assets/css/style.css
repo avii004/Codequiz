@@ -1,16 +1,16 @@
 body {
-    background-color: #2B8A41; 
+    background-color: #0D0D0D); 
     font-family: 'Poppins', sans-serif;
-    color: #FEFEFE;
+    color: #3C9551;
 }
 
 h1, 
 h2 {
-    color: #FEFEFE;
+    color: #3C9551;
 }
 
 a {
-    color: #FEFEFE;
+    color: #3C9551;
 }
 
 a:hover {
@@ -20,7 +20,7 @@ a:hover {
 .btn:focus, .btn:active, .btn:visited {
     outline: none !important;
     box-shadow: none !important;
-    background-color: #2B8A41;
+    background-color: #343a40;
 }
 
 #finalScore {
@@ -29,5 +29,5 @@ a:hover {
 
 #answerCheck {
     font-style: italic;
-    color:  #FEFEFE;
+    color: #3C9551;
 }
